@@ -10,7 +10,7 @@ Run the following commands in the terminal.
 5. npx react-native run-ios
 
 ## Libraries and modules used
-1. Video: I used react-native-Video module.
+1. Video: I used react-native-video module.
 2. State management: I didn't use any specific state management library for this testing project. I just used local state using React hooks.
 3. Styling library: I used @shopify/restyle module for managing theme and styling components.
 4. Design pattern: No
